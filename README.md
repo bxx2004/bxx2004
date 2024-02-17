@@ -11,7 +11,7 @@ const val lang = arrayOf("Java","Kotlin","PHP","GoLang","R")
 hello 👋 I am bxx2004<br/>
 From Beautiful China
 ```kotlin
-const val lang=arrayOf ("Java", "Kotlin", "PHP", "GoLang", "R")
+const val lang = arrayOf("Java", "Kotlin", "PHP", "GoLang", "R")
 ```
 Email: 1223233300@qq.com <br/>
-Blog: www.izephyr. ink
+Blog: www.izephyr.ink
