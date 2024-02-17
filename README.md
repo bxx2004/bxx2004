@@ -6,8 +6,8 @@ const val lang = arrayOf("Java","Kotlin","PHP","GoLang","R")
 ```
 邮箱: 1223233300@qq.com<br />
 博客: www.izephyr.ink
-
-#About Me
+<br />
+# About Me
 hello 👋 I am bxx2004<br/>
 From Beautiful China
 ```kotlin
