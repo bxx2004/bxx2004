@@ -2,16 +2,14 @@
 你好👋 我是bxx2004<br />
 来自美丽的中国
 ```kotlin
-const val lang = arrayOf("Java","Kotlin","PHP","GoLang","R")
+const val lang = arrayOf("Java","Kotlin","PHP","Python","JavaScript")
 ```
-邮箱: 1223233300@qq.com<br />
-博客: www.izephyr.ink
+邮箱: l_haixu@163.com<br />
 <br />
 # About Me
 hello 👋 I am bxx2004<br/>
 From Beautiful China
 ```kotlin
-const val lang = arrayOf("Java", "Kotlin", "PHP", "GoLang", "R")
+const val lang = arrayOf("Java", "Kotlin", "PHP", "Python", "JavaScript")
 ```
-Email: 1223233300@qq.com <br/>
-Blog: www.izephyr.ink
+Email: l_haixu@163.com <br/>
