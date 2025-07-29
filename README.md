@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Have%20a%20good%20time%20!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=劝君莫惜金缕衣，劝君惜取少年时;Have%20a%20good%20time%20!&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
