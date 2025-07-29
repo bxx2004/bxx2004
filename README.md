@@ -27,7 +27,7 @@
 <p>&emsp;&emsp;Hello, I'm Haixu Liu Love software programming, electronic hardware and Bioinformatics.</p>
 <p>&emsp;&emsp;I hope to become an interdisciplinary talent who can apply AI in Bioinformatics.</p>
 <p>&emsp;&emsp;The world is being reshaped by code - and you are the beginning of change.</p>
-<p><strong>Email: l_haixu@163.com | It's a great honor to welcome you to contact and communicate with us.葳蕤繁祉,延彼遐龄,椿萱并茂,棠棣同馨</strong></p>
+<p>&emsp;&emsp;<strong>Email: l_haixu@163.com | 葳蕤繁祉,延彼遐龄,椿萱并茂,棠棣同馨</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 
 </td></tr>
 
